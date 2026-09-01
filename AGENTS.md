@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md
 
 An opinionated guide to the best Python frameworks, libraries, and tools.
 
